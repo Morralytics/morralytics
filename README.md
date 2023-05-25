@@ -28,8 +28,8 @@
 <br /><br />
 
 # Certifications
-<img src="./src/images/UOCertification.png" width="350">
-<img src="./src/images/CybersecurityCertification.png" width="350">
+<img src="./src/images/UOCertification.png" width="300">
+<img src="./src/images/CybersecurityCertification.png" width="300">
 
 # Projects
 [<img src="./src/images/GlazedAndConfused.png" width="350">](https://glazed-and-confused-app.herokuapp.com/)
