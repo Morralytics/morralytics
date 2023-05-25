@@ -28,5 +28,11 @@
 <br /><br />
 
 # Projects
-<a href='https://glazed-and-confused-app.herokuapp.com/'><img align="left" width="450" src="./src/images/GlazedAndConfused.png"/></a>
-<a href='https://meetio.herokuapp.com/'><img align="left" width="450" src="./src/images/MeetIOProject.png"/></a>
+[<img src="./src/images/GlazedAndConfused.png" width="450">](https://glazed-and-confused-app.herokuapp.com/)
+[<img src="./src/images/MeetIOProject.png" width="450">](https://meetio.herokuapp.com/)
+
+# Stay connected with me:
+[<img align="left" alt="website" src="https://img.shields.io/badge/website-343434?style=for-the-badge&logo=About.me&logoColor=white" />](https://morralytics-portfolio.herokuapp.com/)
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nick-morris-morralytics/)
+[<img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:nicholasmorris2599@gmail.com)
+[<img align="left" alt="Gmail" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />](https://www.tiktok.com/@morralytics?is_from_webapp=1&sender_device=pc)
