@@ -27,6 +27,10 @@
 <img align="left" height="32" width="32" src="https://ico.now.sh/amazonaws/aaa"/> 
 <br /><br />
 
+# Certifications
+<img src="./src/images/UOCertification.png" width="350">
+<img src="./src/images/CybersecurityCertification.png" width="350">
+
 # Projects
 [<img src="./src/images/GlazedAndConfused.png" width="350">](https://glazed-and-confused-app.herokuapp.com/)
 [<img src="./src/images/MeetIOProject.png" width="350">](https://meetio.herokuapp.com/)
